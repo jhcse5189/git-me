@@ -4,9 +4,9 @@ int main(void) {
 
 	char a[20];
 
-	printf("What is git?\n");
+	printf("Git me your phone number.\n");
 	scanf("%s", a);
-	printf("nope.\n");
+	printf("no-jam.\n");
 
 	return 0;
 }
